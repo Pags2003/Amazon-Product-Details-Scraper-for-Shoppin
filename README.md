@@ -23,7 +23,7 @@ This project uses Selenium WebDriver to extract data from Amazon.in and enter it
 ## Usage
 
 * Open the command prompt and navigate to the project directory.
-* Run the amazon_data_extraction.py file.
+* Run the **amazon_data_extraction.py** file.
 * Enter the number of iterations, type, and category when prompted.
 * Enter the Amazon website links when prompted for each iteration.
 * The program will extract data from each Amazon website link and enter it into the Shoppin project.
